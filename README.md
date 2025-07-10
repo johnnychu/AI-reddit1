@@ -34,13 +34,11 @@ A Python web crawler that finds the top 10 most mentioned stock symbols on Reddi
    - Copy `.env.example` to `.env`
    - Fill in your Reddit API credentials:
    ```
-   REDDIT_CLIENT_ID=QStq-kULRF9HLKQWh2WXyg
-   REDDIT_CLIENT_SECRET=cw912yNx8qs3anPTNIBwzWjaM2402A
+   REDDIT_CLIENT_ID=your-client-id
+   REDDIT_CLIENT_SECRET=your-client-secret
    REDDIT_USER_AGENT=RedditStockCrawler/1.0
    ```
 
-# developer: GradeAggravating9901
-# secret: cw912yNx8qs3anPTNIBwzWjaM2402A
 ## Usage
 
 Run the crawler:
