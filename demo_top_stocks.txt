@@ -1,0 +1,14 @@
+Top 10 Stock Symbols from Reddit (DEMO DATA)
+=============================================
+ 1. $NVDA   -   23 mentions
+ 2. $BB     -   23 mentions
+ 3. $AMD    -   22 mentions
+ 4. $MSFT   -   22 mentions
+ 5. $S      -   22 mentions
+ 6. $INTEL  -   21 mentions
+ 7. $QQQ    -   21 mentions
+ 8. $AAPL   -   20 mentions
+ 9. $GME    -   20 mentions
+10. $PLTR   -   20 mentions
+
+Note: This is demo data for testing purposes.

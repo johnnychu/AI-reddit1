@@ -1,0 +1,16 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Reddit Stock Crawler",
+			"type": "shell",
+			"command": "/Users/johnny.chu/Git/AI-reddit1/.venv/bin/python",
+			"args": [
+				"reddit_stock_crawler.py"
+			],
+			"group": "build",
+			"isBackground": false,
+			"problemMatcher": []
+		}
+	]
+}
